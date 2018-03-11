@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"./stack"
+	"github.com/SrcHndWng/go-learning-treasure-2017/stack-goroutine/stack"
 )
 
 func main() {

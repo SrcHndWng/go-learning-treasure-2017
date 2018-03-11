@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"./stack"
+	"github.com/SrcHndWng/go-learning-treasure-2017/stack/stack"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"./utils"
+	"github.com/SrcHndWng/go-learning-treasure-2017/net-http/utils"
 )
 
 func main() {

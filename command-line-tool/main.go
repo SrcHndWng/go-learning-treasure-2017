@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"./utils"
+	"github.com/SrcHndWng/go-learning-treasure-2017/command-line-tool/utils"
 )
 
 func main() {

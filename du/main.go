@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"./utils"
+	"github.com/SrcHndWng/go-learning-treasure-2017/du/utils"
 )
 
 func main() {
